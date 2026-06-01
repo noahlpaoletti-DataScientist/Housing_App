@@ -1,8 +1,0 @@
-pandas>=2.2.0
-requests>=2.31.0
-sqlalchemy>=2.0.0
-duckdb>=1.0.0
-python-dotenv>=1.0.1
-pydantic>=2.8.0
-plotly>=5.24.0
-streamlit>=1.44.0

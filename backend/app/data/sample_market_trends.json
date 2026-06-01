@@ -1,0 +1,6 @@
+[
+  {"id": 1, "zip_code": "28203", "annual_growth_rate": 0.052, "six_month_trend": 0.021, "average_days_on_market": 23, "inventory_index": 1.8, "trend_summary": "Tight inventory with resilient move-up buyer demand."},
+  {"id": 2, "zip_code": "28205", "annual_growth_rate": 0.049, "six_month_trend": 0.018, "average_days_on_market": 27, "inventory_index": 2.1, "trend_summary": "Balanced demand with steady neighborhood-level appreciation."},
+  {"id": 3, "zip_code": "28207", "annual_growth_rate": 0.057, "six_month_trend": 0.026, "average_days_on_market": 19, "inventory_index": 1.5, "trend_summary": "Premium submarket with stronger appreciation and lower inventory."},
+  {"id": 4, "zip_code": "28202", "annual_growth_rate": 0.046, "six_month_trend": 0.016, "average_days_on_market": 31, "inventory_index": 2.4, "trend_summary": "Urban attached-housing market with moderate pricing momentum."}
+]

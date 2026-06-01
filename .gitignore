@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+dist/
+run-logs/
+housing_app.db
+.env
+*.pyc
+*.pyo
+*.pyd
+.DS_Store

@@ -1,0 +1,12 @@
+renovation_type,unit,cost
+kitchen,sqft,140
+bathroom,sqft,125
+roof,sqft,8
+paint,sqft,3.5
+flooring,sqft,9.5
+hvac,system,9000
+windows,window,850
+basement,sqft,75
+full_home,sqft,110
+addition,sqft,185
+new_build,sqft,190
